@@ -1,6 +1,6 @@
 import streamlit as st
 import pandas as pd
-pip install streamlit pandas numpy scikit-learn
+import numpy as np
 from sklearn.linear_model import LinearRegression
 
 # ---------------------------
